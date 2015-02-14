@@ -1,7 +1,7 @@
 
 #header {
   background-color: blue;
-  height:110px;
+  height:80px;
   width: 100%;
   position: fixed;
   margin-top: -10px;
@@ -13,7 +13,7 @@
   height:auto;
   width: 200px;
   float: left;
-  padding-top: 200px;
+  padding-top: 150px;
   padding-left: 20px;
   padding-right: 15px;
   padding-bottom: 50px;
@@ -22,7 +22,7 @@
 #post {
   background-color:green;
   height:auto;
-  padding: 175px 100px 50px 350px;
+  padding: 140px 100px 50px 350px;
 }
 
 h1{
