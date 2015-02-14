@@ -1,31 +1,35 @@
 
 #header {
   background-color: blue;
-  height:100px;
-width: 900px;
-  float:top;
+  height:110px;
+  width: 100%;
   position: fixed;
+  margin-top: -10px;
 
 }
+
 #sidebar {
   background-color:yellow;
-  height:900px;
-  width: 100px;
-  position:absolute;
-  float:left;
-  display: inline-block;
-  margin-top: 120px;
-  clear: both;
+  height:auto;
+  width: 200px;
+  float: left;
+  padding-top: 200px;
+  padding-left: 20px;
+  padding-right: 15px;
+  padding-bottom: 50px;
 }
+
 #post {
   background-color:green;
-  height:900px;
-  width: 500px;
-  position:absolute;
-  float: right;
-  margin-left:100px;
-  padding: 10px 20px 10px 20px;
-  display: inline-block;
-  margin-top: 120px;
-  clear:both;
+  height:auto;
+  padding: 175px 100px 50px 350px;
 }
+
+h1{
+    text-align:center;
+}
+
+
+
+
+
